@@ -1,0 +1,27 @@
+.container {
+    height: 350px;
+    margin-top: 180px;
+    margin-left: 40px;
+}
+
+.container .thamnail{
+    height: 250px;
+    border-radius: 30px;
+    margin-bottom: 20px;
+}
+
+.container .miniContainer{
+    display:flex;
+}
+
+.container .channel{
+    border-radius: 100px;
+    margin-right: 16px;
+    width: 100px;
+    height: 101px;
+}
+
+.container .title{
+    max-width: 290px;
+    font-size: 22px;
+}
